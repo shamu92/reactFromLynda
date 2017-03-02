@@ -1,0 +1,16 @@
+{
+  "name": "react-essentials",
+  "version": "1.0.0",
+  "description": "project for tutorial",
+  "main": "index.js",
+  "scripts": {
+    "start": "httpster -d ./dist -p 3000"
+  },
+  "author": "aleksandr",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-preset-latest": "^6.22.0",
+    "babel-preset-react": "^6.23.0",
+    "babel-preset-stage-0": "^6.22.0"
+  }
+}
